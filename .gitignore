@@ -1,5 +1,9 @@
 .vscode
 
+# Cypress
+cypress/screenshots
+cypress/videos
+
 # Logs
 logs
 *.log
